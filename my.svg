@@ -46,17 +46,8 @@
 				}
 
 				h1 {
-					font-size: 50px;
-					line-height: 1.3;
-					letter-spacing: 5px;
-					text-transform: uppercase;
-					text-shadow:
-						0 1px 0 #efefef,
-						0 2px 0 #efefef,
-						0 3px 0 #efefef,
-						0 4px 0 #efefef,
-						0 12px 5px rgba(0, 0, 0, 0.1);
-					animation: rotate ease-in-out 1s infinite alternate;
+				  color:white;
+				  text-align:center;
 				}
 
 				p {
@@ -67,6 +58,7 @@
 			</style>
 			<div class="container">
 				<h1>Welcome to my Profile.</h1>
+				<iframe src="https://github.com/poeeain" width="600" height="400"></iframe>
 			</div>
 		</div>
 	</foreignObject>
